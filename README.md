@@ -1,2 +1,4 @@
 # hello-world
-It feels like CEIS100 again.
+
+All right.
+I'm a college student struggling to earn my Software Programming degree. :')
